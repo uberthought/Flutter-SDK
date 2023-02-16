@@ -39,6 +39,8 @@
 	<string>Need Location permission to monitor Geofence</string>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string>Need Location permission to monitor Geofence</string>
+	<key>UIApplicationSupportsIndirectInputEvents</key>
+	<true/>
 	<key>UIBackgroundModes</key>
 	<array>
 		<string>fetch</string>
