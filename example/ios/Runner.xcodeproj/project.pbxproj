@@ -342,7 +342,6 @@
 				"${PODS_XCFRAMEWORKS_BUILD_DIR}/MoEngage-iOS-SDK/MoEngageMessaging.framework/MoEngageMessaging",
 				"${PODS_XCFRAMEWORKS_BUILD_DIR}/MoEngage-iOS-SDK/MoEngageObjCUtils.framework/MoEngageObjCUtils",
 				"${PODS_XCFRAMEWORKS_BUILD_DIR}/MoEngageInApp/MoEngageInApps.framework/MoEngageInApps",
-				"${PODS_XCFRAMEWORKS_BUILD_DIR}/MoEngageRichNotification/MoEngageRichNotification.framework/MoEngageRichNotification",
 			);
 			name = "[CP] Embed Pods Frameworks";
 			outputPaths = (
@@ -354,7 +353,6 @@
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MoEngageMessaging.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MoEngageObjCUtils.framework",
 				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MoEngageInApps.framework",
-				"${TARGET_BUILD_DIR}/${FRAMEWORKS_FOLDER_PATH}/MoEngageRichNotification.framework",
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 			shellPath = /bin/sh;

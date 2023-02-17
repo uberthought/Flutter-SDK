@@ -40,14 +40,3 @@ post_install do |installer|
   end
 end
 
-target 'PushTemplates' do
-  use_frameworks!
-  pod 'MoEngageRichNotification'
-  
-end
-
-target 'NotificationServices' do
-  use_frameworks!
-  pod 'MoEngageRichNotification'
-  
-end

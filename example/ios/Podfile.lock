@@ -9,20 +9,16 @@ PODS:
   - MoEngagePluginBase (4.1.0):
     - MoEngage-iOS-SDK (< 9.5.0, >= 9.4.0)
     - MoEngageInApp (< 4.5.0, >= 4.4.0)
-  - MoEngageRichNotification (7.4.0):
-    - MoEngage-iOS-SDK (< 9.5.0, >= 9.4.0)
 
 DEPENDENCIES:
   - Flutter (from `Flutter`)
   - moengage_flutter (from `.symlinks/plugins/moengage_flutter/ios`)
-  - MoEngageRichNotification
 
 SPEC REPOS:
   trunk:
     - MoEngage-iOS-SDK
     - MoEngageInApp
     - MoEngagePluginBase
-    - MoEngageRichNotification
 
 EXTERNAL SOURCES:
   Flutter:
@@ -36,8 +32,7 @@ SPEC CHECKSUMS:
   moengage_flutter: 2c8bb6b080fb2901deba86b19cd0ffbcd793cbb7
   MoEngageInApp: 94f24b0b1a83ec247dc998f31b08124b09fcab96
   MoEngagePluginBase: e865f388c39d0cf2c7847610876e63b0e5e31c22
-  MoEngageRichNotification: 007cb006358994209e017c6ce52808809cf0b3fc
 
-PODFILE CHECKSUM: 4d9e79603cceee14207a73603a7cdd6a1977f777
+PODFILE CHECKSUM: b3da3af3f4077ba305d9e7bdb4f1bb9e003672be
 
 COCOAPODS: 1.11.3
